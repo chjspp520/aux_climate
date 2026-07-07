@@ -1,0 +1,13 @@
+{
+  "domain": "aux_climate",
+  "name": "AUX Climate",
+  "version": "1.0.0",
+  "config_flow": true,
+  "documentation": "https://github.com/chjspp520/aux_climate",
+  "requirements": ["pycryptodome>=3.20.0"],
+  "dependencies": [],
+  "codeowners": [],
+  "integration_type": "device",
+  "iot_class": "local_polling",
+  "loggers": ["aux_climate"]
+}
